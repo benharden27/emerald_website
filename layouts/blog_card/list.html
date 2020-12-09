@@ -1,0 +1,16 @@
+{{ define "title" }}
+  {{ title (i18n (lower .Title)) | default .Title }} · {{ .Site.Title }}
+{{ end }}
+{{ define "content" }}
+  <section class="container list">
+    <h1 class="title"> {{ title (i18n (lower .Title)) | default .Title }} </h1>
+    {{ .Content }}
+    <div class="card-deck">
+      {{- range .Paginator.Pages -}}
+        {{- .Render "li" -}}
+      {{- end -}}
+    </div>
+
+    {{ partial "pagination.html" . }}
+  </section>
+{{ end }}

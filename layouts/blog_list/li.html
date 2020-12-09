@@ -1,0 +1,11 @@
+<li>
+  <div class = "blog-entry">
+    <div class = "blog-image">
+      <img src={{ .Params.image }} alt="Card image cap">
+    </div>
+    <div class="blog-summary">
+      <a class="title" href="{{ .Params.externalLink | default .RelPermalink }}">{{ .Title }}</a>
+      <p>{{ .Date.Format (.Site.Params.dateFormat | default "January 2, 2006" ) }}</p>
+    </div>
+  </div>
+</li>

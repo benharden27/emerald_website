@@ -1,0 +1,96 @@
+.navigation .navigation-title {
+  text-transform: none;
+  letter-spacing: 0rem;
+}
+
+h1, h2, h3, h4, h5, h6{
+  margin: 3.2rem 0 3.2rem;
+}
+
+.caption {
+  font-style: italic;
+  margin: 1rem 0;
+  font-size: 1.3rem;
+}
+
+.avatar img {
+    width: 30rem;
+    height: auto;
+    border-radius: 50%;
+}
+
+.container {
+    max-width: 800px;
+}
+
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.float-right {
+  width: 40%;
+  float: right;
+  margin-left: 3rem;
+}
+
+@media only screen and (max-width:768px){
+  .float-right {
+    width: 100%;
+    float: none;
+    margin-left: 0;
+  }
+}
+
+.content article p {
+    text-align: left;
+
+/*
+.list ul li{
+  margin-bottom: 15px;
+}
+
+.list ul li .title{
+  flex: none;
+  margin: 2rem 0;
+}
+
+
+
+.blog-entry{
+  width:100%;
+  display: flex;
+}
+
+.blog-image{
+  width: 30%;
+  height: 100px;
+  overflow: hidden;
+}
+
+.blog-summary{
+  margin-left: 2rem;
+  width: 100%;
+}
+
+.card {
+  padding: 16px;
+  text-align: left;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.card-deck{
+    margin-top: 40px;
+    margin-left: auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    grid-gap: .5rem;
+}
+*/

@@ -1,0 +1,79 @@
+---
+title: The Garden
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(leaflet)
+```
+
+> *We are currently seeking public comment on the Emerald Community garden. [Click here](/contact) to submit.*
+
+The Emerald Community Garden will initially be a 6000 sq ft plot to the rear of the Historic Emerald House property on Davisville Road, East Falmouth. 
+
+```{r, out.width="100%"}
+leaflet() %>%
+  addTiles() %>%
+  addMarkers(lat = 41.574753, lng = -70.560373, label = "Emerald Community Garden")
+```
+
+The idea came about...
+
+
+link to history
+
+
+
+<div class = "float-right">
+  ![Area leased to Emerald Community Garden](/images/garden_plot.jpeg)
+</div>
+
+The plot [leased from the town](/blog/2020-11-09-land-leased-for-garden/) is immediately to the rear of Emerald House and surrounds an historic grapevine, which we plan to revitalize as the centerpiece of the garden.
+
+We hope to open the garden to the community in May 2021 and will be working throughout the winter and spring to [hear what people need](/contact), [prepare the land](/blog/2020-11-14-breaking-ground/), bring water to the site, and erect fencing.
+
+## Goals
+
+Our Goals are to honor the [historic legacy](/history) of farming on the property by:
+
+* Cultivating a gardening community with a diversity of ages, races, genders, cultural backgrounds, socioeconomic means, and gardening experience.
+* Creating a learning environment for sharing skills and knowledge.
+* Having a positive impact on the local environment.
+* Being a catalyst for positive change in local food production in the garden and beyond.
+
+To fullfill these goals we are currently seeking feedback about how folks would like to see this space used and how we can ensure access to participation from all residents in town. We will be speaking with specific stakeholder groups including the Emerald family, wider portuguese community, local schools, and the Wampanoag Tribe, but if you would like to add your voice then please submit a comment.
+
+<a href="/contact" class="button">Submit Comment</a>
+
+## The Future
+
+Once open, we expect to remain on this plot of land for two or three years while the town discusses the wider plan for the Emerald property. The town is looking to lease the house as a cultural site and is developing a master plan for the rest of the property to potentially include affordable housing, an inclusive playspace, and a larger community garden.
+
+![Initial concept for a possible use of the Emerald Property. Davisville road is to right, Emerald House is top-right](/images/masterplan.jpeg)
+
+## Feedback
+
+
+# The Team
+
+## Garden Committee
+
+* Alan White
+* Shona Vitoli
+* Pat Thrasher
+* Pam Schumacher
+* André Price
+* Patricia Pinto da Silva
+* Matt Liles
+* Julia Leschin
+* Helen Kennedy
+* Ben Harden
+* Mary Ellen Alwardt
+* Rynie Alwardt
+
+## Advisors
+
+* Terry Soares: [Soares Nursery](https://www.soaresflowergardennursery.com/)
+* Dick Pooley: [Marina F Andrews Community Garden](https://www.falmouthcommunitygarden.org/)
+* Joe Netto
+* Stan Ingram: [Farming Falmouth](https://www.farmingfalmouth.org/)
