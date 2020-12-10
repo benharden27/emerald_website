@@ -36,15 +36,15 @@
   </url>
   
   <url>
-    <loc>/contact/</loc>
-  </url>
-  
-  <url>
     <loc>/history/</loc>
   </url>
   
   <url>
     <loc>/series/</loc>
+  </url>
+  
+  <url>
+    <loc>/contact/</loc>
   </url>
   
   <url>
