@@ -1,7 +1,6 @@
 ---
 title: Marina F. Andrews Garden Site Visit
 date: 2020-11-21
-draft: true
 image: /images/andrews_visit.jpg
 ---
 
