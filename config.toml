@@ -53,7 +53,7 @@ disqusShortname = ""
     enableTwemoji = false
 
     # Custom CSS
-    customCSS = ["css/custom.css"]
+    customCSS = ["css/custom.css", "css/info_button.css"]
 
     # Custom SCSS
     customSCSS = []

@@ -7,9 +7,7 @@ knitr::opts_chunk$set(echo = FALSE)
 library(leaflet)
 ```
 
-> *We are currently seeking public comment on the Emerald Community garden. [Click here](/contact) to submit.*
-
-The Emerald Community Garden will initially be a 6000 sq ft plot to the rear of the Historic Emerald House property on Davisville Road, East Falmouth. 
+The Emerald Community Garden will be opening in May 2021 on a 6000 sq ft plot to the rear of the Historic Emerald House property on Davisville Road, East Falmouth. 
 
 ```{r, out.width="100%"}
 leaflet() %>%
@@ -19,20 +17,17 @@ leaflet() %>%
 
 The idea came about...
 
-
-link to history
-
-
+WAITING FOR TEXT FROM DICK
 
 <div class = "float-right">
   ![Area leased to Emerald Community Garden](/images/garden_plot.jpeg)
 </div>
 
-The plot [leased from the town](/blog/2020-11-09-land-leased-for-garden/) is immediately to the rear of Emerald House and surrounds an historic grapevine, which we plan to revitalize as the centerpiece of the garden.
+The plot [leased from the town](/blog/2020-11-09-land-leased-for-garden/) is immediately to the rear of Emerald House and surrounds an historic grapevine, which we plan to revitalize as the centerpiece of the garden. 
 
-We hope to open the garden to the community in May 2021 and will be working throughout the winter and spring to [hear what people need](/contact), [prepare the land](/blog/2020-11-14-breaking-ground/), bring water to the site, and erect fencing.
+We will be working throughout the winter and spring to [hear what people need](/contact), [prepare the land](/blog/2020-11-14-breaking-ground/), bring water to the site, and erect fencing.
 
-## Goals
+## Current Goals
 
 Our Goals are to honor the [historic legacy](/history) of farming on the property by:
 
@@ -41,7 +36,17 @@ Our Goals are to honor the [historic legacy](/history) of farming on the propert
 * Having a positive impact on the local environment.
 * Being a catalyst for positive change in local food production in the garden and beyond.
 
-To fullfill these goals we are currently seeking feedback about how folks would like to see this space used and how we can ensure access to participation from all residents in town. We will be speaking with specific stakeholder groups including the Emerald family, wider portuguese community, local schools, and the Wampanoag Tribe, but if you would like to add your voice then please submit a comment.
+To aid our planning to meet these goals we are [seeking comment](/contact) from stakeholder groups and the public about how people would like to see this space used and how we can ensure access to participation from all residents in town.
+
+We are at the early stages of planning and have lots of questions including:
+
+* What kind of events or educational opportunities would people be interested in?
+* Do we want a series of individually gardened plots? Or are there shared resources we can create to benefit all?
+* How could the local schools be involved?
+* How might we serve the community in providing local, nutritionally-rich food to people in need?
+* Whats the fairest way to apportion out the land to interested growers?
+
+If you would like to add your voice to this discussion then please submit a comment.
 
 <a href="/contact" class="button">Submit Comment</a>
 

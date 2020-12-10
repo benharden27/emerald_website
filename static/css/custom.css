@@ -7,6 +7,10 @@ h1, h2, h3, h4, h5, h6{
   margin: 3.2rem 0 3.2rem;
 }
 
+.content article header {
+  margin-top: 3.2rem;
+}
+
 .caption {
   font-style: italic;
   margin: 1rem 0;
@@ -24,7 +28,7 @@ h1, h2, h3, h4, h5, h6{
 }
 
 .button {
-  background-color: #4CAF50; /* Green */
+  background-color:  #37ae5f; /* Green */
   border: none;
   color: white;
   padding: 15px 32px;
@@ -50,6 +54,8 @@ h1, h2, h3, h4, h5, h6{
 
 .content article p {
     text-align: left;
+}
+
 
 /*
 .list ul li{

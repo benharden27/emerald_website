@@ -1,0 +1,25 @@
+.alert {
+  padding: 5px 20px 5px 20px;
+  background-color: #37ae5f;
+    color: white;
+}
+
+.closebtn {
+  margin-left: 15px;
+  color: white;
+  font-weight: bold;
+  float: right;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.closebtn:hover {
+  color: black;
+}
+
+.alert a {
+  color: black;
+  
+}
