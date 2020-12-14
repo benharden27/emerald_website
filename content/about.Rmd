@@ -7,17 +7,15 @@ knitr::opts_chunk$set(echo = FALSE)
 library(leaflet)
 ```
 
-The Emerald Community Garden will be opening in May 2021 on a 6000 sq ft plot to the rear of the Historic Emerald House property on Davisville Road, East Falmouth. 
+## Background
+
+The Emerald Community Garden will be opening in May 2021 on a 6000 sq ft plot to the rear of the Historic Emerald House property on Davisville Road, East Falmouth.
 
 ```{r, out.width="100%"}
 leaflet() %>%
   addTiles() %>%
   addMarkers(lat = 41.574753, lng = -70.560373, label = "Emerald Community Garden")
 ```
-
-The idea came about...
-
-WAITING FOR TEXT FROM DICK
 
 <div class = "float-right">
   ![Area leased to Emerald Community Garden](/images/garden_plot.jpeg)
@@ -27,32 +25,33 @@ The plot [leased from the town](/blog/2020-11-09-land-leased-for-garden/) is imm
 
 We will be working throughout the winter and spring to [hear what people need](/contact), [prepare the land](/blog/2020-11-14-breaking-ground/), bring water to the site, and erect fencing.
 
-## Current Goals
+## What's the plan?
 
-Our Goals are to honor the [historic legacy](/history) of farming on the property by:
+Community gardens can take many different forms. They can simply be organized spaces where individuals rent plots to garden. They can also be hubs for education, community building, events, and cultural exchange. They can include shared resources and provide nutritious food for the local community and food insecure households.
+
+Our goals are to honor the [historic legacy](/history) of farming on the property by:
 
 * Cultivating a gardening community with a diversity of ages, races, genders, cultural backgrounds, socioeconomic means, and gardening experience.
 * Creating a learning environment for sharing skills and knowledge.
 * Having a positive impact on the local environment.
 * Being a catalyst for positive change in local food production in the garden and beyond.
 
-To aid our planning to meet these goals we are [seeking comment](/contact) from stakeholder groups and the public about how people would like to see this space used and how we can ensure access to participation from all residents in town.
-
-We are at the early stages of planning and have lots of questions including:
+But, we are at the early stages of planning and have lots of questions about how to reach these goals including:
 
 * What kind of events or educational opportunities would people be interested in?
 * Do we want a series of individually gardened plots? Or are there shared resources we can create to benefit all?
 * How could the local schools be involved?
 * How might we serve the community in providing local, nutritionally-rich food to people in need?
 * Whats the fairest way to apportion out the land to interested growers?
+* How can we make this accessible to anyone who wants to be involved?
 
-If you would like to add your voice to this discussion then please submit a comment.
+We are currently seeking feedback from stakeholder groups and collecting [public comment](/contact). We'd love to hear your thoughts on what you would like to see in a community garden and how it can best serve the community.
 
 <a href="/contact" class="button">Submit Comment</a>
 
 ## The Future
 
-Once open, we expect to remain on this plot of land for two or three years while the town discusses the wider plan for the Emerald property. The town is looking to lease the house as a cultural site and is developing a master plan for the rest of the property to potentially include affordable housing, an inclusive playspace, and a larger community garden.
+We expect to remain on this plot of land for two or three years while the town discusses the wider plan for the Emerald property. The town is looking to lease the house as a cultural site and is developing a master plan for the rest of the property to potentially include affordable housing, an inclusive play space, and a larger community garden. What we start on the plot this spring will sew seeds that will grow in future years.
 
 ![Initial concept for a possible use of the Emerald Property. Davisville road is to right, Emerald House is top-right](/images/masterplan.jpeg)
 
