@@ -9,7 +9,7 @@ library(leaflet)
 
 ## Background
 
-The Emerald Community Garden will be opening in May 2021 on a 6000 sq ft plot to the rear of the Historic Emerald House property on Davisville Road, East Falmouth.
+The Emerald Community Garden will be opening in May 2021 on a 6000 sq ft plot at the Historic Emerald House property on Davisville Road, East Falmouth.
 
 ```{r, out.width="100%"}
 leaflet() %>%
@@ -36,7 +36,7 @@ Our goals are to honor the [historic legacy](/history) of farming on the propert
 * Having a positive impact on the local environment.
 * Being a catalyst for positive change in local food production in the garden and beyond.
 
-But, we are at the early stages of planning and have lots of questions about how to reach these goals including:
+We are at the early stages of planning and have lots of questions about how to reach these goals including:
 
 * What kind of events or educational opportunities would people be interested in?
 * Do we want a series of individually gardened plots? Or are there shared resources we can create to benefit all?
