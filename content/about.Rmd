@@ -11,11 +11,7 @@ library(leaflet)
 
 The Community Garden will be opening in May 2021 on a 6000 sq ft plot at the Historic Emerald House property on Davisville Road, East Falmouth.
 
-```{r, out.width="100%"}
-leaflet() %>%
-  addTiles() %>%
-  addMarkers(lat = 41.574753, lng = -70.560373, label = "Emerald Community Garden")
-```
+![Breaking ground on the community Garden, Nov 2020. Photo courtesy of Dick Pooley](/images/breaking_ground_thin.jpeg)
 
 <div class = "float-right">
   ![Area leased to Emerald Community Garden](/images/garden_plot.jpeg)
@@ -24,6 +20,14 @@ leaflet() %>%
 This garden will be Falmouth's second community garden, following on from the success of the [Marina F. Andrews Community Garden](https://www.falmouthcommunitygarden.org/) at Tony Andrew's Farm. The plot [leased from the town](/blog/2020-11-09-land-leased-for-garden/) for our garden is immediately to the rear of Emerald House and surrounds an historic grapevine, which we plan to revitalize as the centerpiece of the garden. 
 
 We will be working throughout the winter and spring to [hear what people need](/contact), [prepare the land](/blog/2020-11-14-breaking-ground/), bring water to the site, and erect fencing.
+
+## Where we are
+
+```{r, out.width="100%"}
+leaflet() %>%
+  addTiles() %>%
+  addMarkers(lat = 41.574753, lng = -70.560373, label = "Emerald Community Garden")
+```
 
 ## What's the plan?
 
