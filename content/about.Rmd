@@ -7,8 +7,6 @@ knitr::opts_chunk$set(echo = FALSE)
 library(leaflet)
 ```
 
-## Background
-
 The Community Garden will be opening in May 2021 on a 6000 sq ft plot at the Historic Emerald House property on Davisville Road, East Falmouth.
 
 ![Breaking ground on the community Garden, Nov 2020. Photo courtesy of Dick Pooley](/images/breaking_ground_thin.jpeg)
@@ -55,24 +53,24 @@ We are currently seeking feedback from stakeholder groups and collecting [public
 
 ## The Future
 
-We expect to remain on this plot of land for two or three years while the town discusses the wider plan for the Emerald property. The town is looking to lease the house as a cultural site and is developing a master plan for the rest of the property to potentially include affordable housing, an inclusive play space, and a larger community garden. What we start on the plot this spring will sew seeds that will grow in future years.
+We expect to remain on this plot of land for two or three years while the town discusses the wider plan for the Emerald property. The town is [looking to lease the house](https://www.falmouthma.gov/847/Procurement-Notices) as a cultural site and is developing a master plan for the rest of the property to potentially include affordable housing, an inclusive play space, and a larger community garden. What we start on the plot this spring will sew seeds that will grow in future years.
 
 ![Initial concept for a possible use of the Emerald Property. Davisville road is to right, Emerald House is top-right](/images/masterplan.jpeg)
 
 ## Garden Committee
 
-* Alan White
-* Shona Vitoli
-* Pat Thrasher
-* Pam Schumacher
-* André Price
-* Patricia Pinto da Silva
-* Matt Liles
-* Julia Leschin
-* Helen Kennedy
-* Ben Harden
-* Mary Ellen Alwardt
 * Rynie Alwardt
+* Mary Ellen Alwardt
+* Ben Harden
+* Helen Kennedy
+* Julia Leschin
+* Matt Liles
+* Patricia Pinto da Silva
+* André Price
+* Pam Schumacher
+* Pat Thrasher
+* Shona Vitoli
+* Alan White
 
 ## Advisors
 
