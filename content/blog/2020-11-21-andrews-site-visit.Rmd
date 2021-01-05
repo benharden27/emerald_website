@@ -2,6 +2,7 @@
 title: Marina F. Andrews Garden Site Visit
 date: 2020-11-21
 image: /images/andrews_visit.jpg
+authors: ["Ben Harden"]
 ---
 
 ![The Committee at the Marina F. Andrews Community Garden, courtesy of Ben Harden](/images/andrews_visit.jpg)

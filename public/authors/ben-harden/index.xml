@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Emerald Garden</title>
-    <link>/</link>
-    <description>Recent content on Emerald Garden</description>
+    <title>Ben Harden on Emerald Garden</title>
+    <link>/authors/ben-harden/</link>
+    <description>Recent content in Ben Harden on Emerald Garden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 05 Jan 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/authors/ben-harden/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -63,37 +63,6 @@ It was a warm day. Light sweater weather. One of those fall days where the sun s
       <guid>/blog/2020-11-09-land-leased-for-garden/</guid>
       <description>Image courtesy of Gene M. Marchand, Falmouth Enterprise
  At their meeting on Nov 9th, the Falmouth Selectboard unanimously approved a lease for Farming Falmouth to establish a community garden on the historic Emerald House property at 67 Davisville Road in East Falmouth. The lease is for a 5633 square foot space immediately to the rear of the house, enough space to accommodate 30 gardeners on 10 foot by 10 foot plots.</description>
-    </item>
-    
-    <item>
-      <title>History</title>
-      <link>/history/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/history/</guid>
-      <description>The Emerald family homestead on Davisville Road stands as one reminder of an extraordinary period in Falmouth’s history. The late 1800s introduced an important new element to the community. The Portuguese culture was admirable and the agricultural vision of the new immigrants was remarkable. A century after the first immigration their descendants are vital contributors to the life of the town. Now that the town has bought the Emerald property, we have an opportunity to insure that future generations understand and appreciate this period of history</description>
-    </item>
-    
-    <item>
-      <title>Stay in Touch</title>
-      <link>/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/contact/</guid>
-      <description> Public Comment   Mailing list Our mailing list will be coming soon…
- </description>
-    </item>
-    
-    <item>
-      <title>The Garden</title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>The Community Garden will be opening in May 2021 on a 6000 sq ft plot at the Historic Emerald House property on Davisville Road, East Falmouth.
-Breaking ground on the community Garden, Nov 2020. Photo courtesy of Dick Pooley
- Area leased to Emerald Community Garden
-  This garden will be Falmouth’s second community garden, following on from the success of the Marina F.</description>
     </item>
     
   </channel>

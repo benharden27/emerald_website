@@ -1,6 +1,7 @@
 ---
 title: A Blank Slate
 date: 2020-12-20
+authors: ["Ben Harden"]
 ---
 
 ![The garden to the rear of Emerald House. The view looks south with the Emerald House to the left and the ploughed garden space surrounding the grape vine to the upper right. Photo courtesy of Onji Scott-Price](/images/drone_wide.JPG)

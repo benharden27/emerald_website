@@ -2,6 +2,7 @@
 title: "Breaking Ground"
 date: "2020-11-14"
 image: "/images/breaking_ground.jpg"
+authors: ["Ben Harden"]
 ---
 
 ![Image courtesy of Dick Pooley](/images/breaking_ground.jpg)
