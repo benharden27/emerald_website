@@ -96,6 +96,6 @@ disqusShortname = ""
     weight = 3
     url = "blog/"
 [[menu.main]]
-    name = "Contact"
+    name = "Comment"
     weight = 4
     url = "contact/"
