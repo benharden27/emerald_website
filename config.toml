@@ -17,10 +17,10 @@ disqusShortname = ""
 
 [params]
     author = "Emerald House Community Garden"
-    description = "John Doe's personal website"
-    keywords = "blog,developer,personal"
+    description = "Emerald House Community Garden"
+    keywords = "garden, community, falmouth"
     info = "Growing in East Falmouth"
-    latest = "We want you to be involved. [Leave a comment](/contact/) to let us know what ideas you have and sign up for future updates including when plot applications will open."
+    latest = "We want you to be involved. [Sign up](/contact/) for future updates and leave a comment if you have ideas or questions."
     avatarURL = "images/emerald.jpeg"
     #gravatar = "john.doe@example.com"
     footerContent = ""
@@ -97,6 +97,6 @@ disqusShortname = ""
     weight = 3
     url = "blog/"
 [[menu.main]]
-    name = "Comment"
+    name = "Contact"
     weight = 4
     url = "contact/"
