@@ -10,7 +10,19 @@
     {{ end }}
     <h1>{{ .Site.Params.author }}</h1>
     <h2>{{ .Site.Params.info }}</h2>
-    <p>LATEST: {{ .Site.Params.latest | markdownify }}</p>
+    <p><strong>LATEST: </strong>{{ .Site.Params.latest | markdownify }}</p>
+    
+    <h2>NEWS</h2>  
+    {{ $t := slice "news" }}
+    <ul>
+    {{ range where .Site.Pages ".Params.tags" "intersect" $t}}
+    <li>
+      <span class="date">{{ .Date.Format (.Site.Params.dateFormat | default "January 2, 2006" ) }}</span>
+      <a class="title" href="{{ .Params.externalLink | default .RelPermalink }}">{{ .Title }}</a>
+    </li>
+    {{ end }}
+  </ul>
+
     {{ with .Site.Params.social }}
     <ul>
       {{ range sort . "weight" }}
