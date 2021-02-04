@@ -4,7 +4,7 @@ date: 2020-12-20
 authors: ["Ben Harden"]
 ---
 
-![The garden to the rear of Emerald House. The view looks south with the Emerald House to the left and the ploughed garden space surrounding the grape vine to the upper right. Photo courtesy of Onji Scott-Price](/images/drone_wide.JPG)
+![The garden to the rear of Emerald House. The view looks south with the Emerald House to the left and the ploughed garden space surrounding the grape vine to the upper right. Photo courtesy of Onjalé Scott-Price <https://www.oscottprice.com/>](/images/drone_wide.JPG)
 
 The snow from last weeks storm was still on the ground when the committee met at Emerald House on Saturday. Before the snow had arrived, the the winter rye ground cover crop had germinated and tiny blades could be seen across the plot. Fortunately, winter rye can [tolerate temperatures as low as -30°F](https://www.uvm.edu/vtvegandberry/factsheets/winterrye.html) so once the snow melts, it'll continue to grow and build good soil for next years gardeners.
 
@@ -21,6 +21,6 @@ We can't do that without hearing from those in our community with a stake in the
 
 We are also looking for ideas and comments from the public. If you have any thoughts then please [fill out our comment form](/comment) and help us build the best community garden we can. You can find out more information about the garden and our current goals and questions [here](/about). With the communities help, we can start to sketch on this blank slate and grow a space that serves the whole community.
 
-![Photo credit: Onji Scott Price](/images/drone_close.JPG)
+![Photo credit: Onjalé Scott-Price <https://www.oscottprice.com/>](/images/drone_close.JPG)
 
 
