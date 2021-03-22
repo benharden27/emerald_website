@@ -20,7 +20,7 @@ disqusShortname = ""
     description = "Emerald House Community Garden"
     keywords = "garden, community, falmouth"
     info = "Growing in East Falmouth"
-    latest = "[Apply for a plot today!](/application/) Deadline for applications is March 21."
+    latest = "Applications are now closed for the 2021 growing season. We will let applicants know by April 1 if they have been successful."
     avatarURL = "images/emerald.jpeg"
     #gravatar = "john.doe@example.com"
     footerContent = ""
@@ -100,8 +100,4 @@ disqusShortname = ""
     name = "Contact"
     weight = 4
     url = "contact/"
-[[menu.main]]
-    name = "Plot Application"
-    weight = 5
-    url = "application/"
 

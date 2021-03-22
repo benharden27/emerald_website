@@ -6,10 +6,20 @@
     <description>Recent content in news on Emerald Garden</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Applications closed for 2021 season</title>
+      <link>/blog/2021-03-21-applications/</link>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2021-03-21-applications/</guid>
+      <description>Wow, what an amazing response! We’re received so many more applications for plots than we were expecting - really shows how much demand there is for space to grow in our community.
+The committee is currently working to assign plots based on a lottery system and we will let successful applicants know if they have been successful by April 1.</description>
+    </item>
     
     <item>
       <title>Update: Public Comments</title>
