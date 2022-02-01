@@ -3,4 +3,6 @@ title: Plot Application
 slug: application
 ---
 
-Applications are now closed for the 2021 season. Please sign-up for our [mailing list](/contact) for future volunteer and workshop opportunities.
+Applications are now open for the 2022 growing season. Please fill out the form below to apply.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSffFj9XydfWwOko3P5dzjta5wu0lmnnAyFHgLhNoD9pPlKH0Q/viewform?embedded=true" width="640" height="2379" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>

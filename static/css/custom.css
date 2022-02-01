@@ -1,3 +1,16 @@
+.bg-image {
+  background-image: url("/images/DeniseJay3.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.about {
+  padding: 2rem;
+  width: 50%;
+  background-color: white;
+}
+
 .navigation .navigation-title {
   text-transform: none;
   letter-spacing: 0rem;
@@ -18,9 +31,9 @@ h1, h2, h3, h4, h5, h6{
 }
 
 .avatar img {
-    width: 30rem;
+    width: 100%;
     height: auto;
-    border-radius: 50%;
+    border-radius: 0%;
 }
 
 .container {

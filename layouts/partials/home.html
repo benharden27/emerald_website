@@ -1,4 +1,4 @@
-<section class="container centered">
+<section class="container centered bg-image">
   <div class="about">
     {{ if and (isset .Site.Params "avatarurl") (not (isset .Site.Params "gravatar")) }}
       {{ with .Site.Params.avatarURL }}
@@ -8,11 +8,11 @@
     {{ with .Site.Params.gravatar }}
       <div class="avatar"><img src="https://www.gravatar.com/avatar/{{md5 .}}?s=240&d=mp" alt="gravatar"></div>
     {{ end }}
-    <h1>{{ .Site.Params.author }}</h1>
+    <!--<h1>{{ .Site.Params.author }}</h1>-->
     <h2>{{ .Site.Params.info }}</h2>
-    <p><strong>LATEST: </strong>{{ .Site.Params.latest | markdownify }}</p>
+    <!--<p><strong>LATEST: </strong>{{ .Site.Params.latest | markdownify }}</p>-->
     
-    <h2>NEWS</h2>  
+<!--    <h2>NEWS</h2>  
     {{ $t := slice "news" }}
     <ul>
     {{ range where .Site.Pages ".Params.tags" "intersect" $t}}
@@ -22,6 +22,8 @@
     </li>
     {{ end }}
   </ul>
+  
+  -->
 
     {{ with .Site.Params.social }}
     <ul>

@@ -7,17 +7,16 @@ knitr::opts_chunk$set(echo = FALSE)
 library(leaflet)
 ```
 
-The Community Garden will be opening in May 2021 on a 6000 sq ft plot at the Historic Emerald House property on Davisville Road, East Falmouth.
+The Community Garden opened in May 2021 on a 6000 sq ft plot at the Historic Emerald House property on Davisville Road, East Falmouth.
 
 ![Breaking ground on the community Garden, Nov 2020. Photo courtesy of Dick Pooley](/images/breaking_ground_thin.jpeg)
 
-<div class = "float-right">
-  ![Area leased to Emerald Community Garden](/images/garden_plot.jpeg)
-</div>
+The garden is Falmouth's second community garden, following on from the success of the [Marina F. Andrews Community Garden](https://www.falmouthcommunitygarden.org/) at Tony Andrew's Farm. The plot [leased from the town](/blog/2020-11-09-land-leased-for-garden/) for our garden is immediately to the rear of Emerald House and surrounds an historic grapevine, which has been revitalized as the centerpiece of the garden. 
 
-This garden will be Falmouth's second community garden, following on from the success of the [Marina F. Andrews Community Garden](https://www.falmouthcommunitygarden.org/) at Tony Andrew's Farm. The plot [leased from the town](/blog/2020-11-09-land-leased-for-garden/) for our garden is immediately to the rear of Emerald House and surrounds an historic grapevine, which we plan to revitalize as the centerpiece of the garden. 
+![Constructing the perimeter fence, April 2021](/images/construction.jpeg)
 
-We are currently working on installing the fence, paths and irrigation - please [let us know](/contact) if you would like to volunteer to help.
+![Opening day, May 2021. Courtesy Onjalé Scott Price](/images/DJI_0416.JPG)
+
 
 ## Where we are
 
@@ -27,53 +26,35 @@ leaflet() %>%
   addMarkers(lat = 41.574753, lng = -70.560373, label = "Emerald Community Garden")
 ```
 
-## What's the plan?
-
-Community gardens can take many different forms. They can simply be organized spaces where individuals rent plots to garden. They can also be hubs for education, community building, events, and cultural exchange. They can include shared resources and provide nutritious food for the local community and food insecure households.
-
-Our goals are to honor the [historic legacy](/history) of farming on the property by:
-
-* Cultivating a gardening community with a diversity of ages, races, genders, cultural backgrounds, socioeconomic means, and gardening experience.
-* Creating a learning environment for sharing skills and knowledge.
-* Having a positive impact on the local environment.
-* Being a catalyst for positive change in local food production in the garden and beyond.
-
-We've heard a lot of great [feedback](/blog/2021-02-10-public-outreach) and have seen a huge demand for the plots. We are only a few weeks away now from opening to our first season of gardeners on May 15 - if you are able to donate to time to help install some of the key infrastrucure the please [let us know](/contact).
-
-## The Future
-
-We expect to remain on this plot of land for two or three years while the town discusses the wider plan for the Emerald property. The town is [looking to lease the house](https://www.falmouthma.gov/847/Procurement-Notices) as a cultural site and is developing a master plan for the rest of the property to potentially include affordable housing, an inclusive play space, and a larger community garden. What we start on the plot this spring will sew seeds that will grow in future years.
-
-![Initial concept for a possible use of the Emerald Property. Davisville road is to right, Emerald House is top-right](/images/masterplan.jpeg)
-
 ## Support
 
-We are very grateful to the following organizations for support as we establish this community garden:
+We are very grateful to the following organizations for support in esablishing this community garden:
 
+* [Farming Falmouth](https://www.farmingfalmouth.org/) - our parent organization.
 * A grant from [The Mass Food Security Infrastructure Grant Program](https://www.mass.gov/service-details/food-security-infrastructure-grant-program)
 * A grant from [The Falmouth Fund of the Cape Cod Foundation](https://www.capecodfoundation.org/our-funds/falmouth-fund/)
 * [Eagle Fence](https://www.eaglefencecapecod.net/): For helping us source reclaimed fence posts.
 
-## Garden Committee
+<!-- ## Garden Committee -->
 
-* Rynie Alwardt
-* Mary Ellen Alwardt
-* Ben Harden
-* Helen Kennedy
-* Julia Leschin
-* Matt Liles
-* Patricia Pinto da Silva
-* André Price
-* Pam Schumacher
-* Shona Vitoli
-* Alan White
+<!-- * Rynie Alwardt -->
+<!-- * Mary Ellen Alwardt -->
+<!-- * Ben Harden -->
+<!-- * Helen Kennedy -->
+<!-- * Julia Leschin -->
+<!-- * Matt Liles -->
+<!-- * Patricia Pinto da Silva -->
+<!-- * André Price -->
+<!-- * Pam Schumacher -->
+<!-- * Shona Vitoli -->
+<!-- * Alan White -->
 
-## Advisors
+<!-- ## Advisors -->
 
-* Stan Ingram: [Farming Falmouth](https://www.farmingfalmouth.org/)
-* Joe Netto
-* Dick Pooley: [Marina F Andrews Community Garden](https://www.falmouthcommunitygarden.org/)
-* Terry Soares: [Soares Nursery](https://www.soaresflowergardennursery.com/)
+<!-- * Stan Ingram: [Farming Falmouth](https://www.farmingfalmouth.org/) -->
+<!-- * Joe Netto -->
+<!-- * Dick Pooley: [Marina F Andrews Community Garden](https://www.falmouthcommunitygarden.org/) -->
+<!-- * Terry Soares: [Soares Nursery](https://www.soaresflowergardennursery.com/) -->
 
 
 

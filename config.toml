@@ -20,8 +20,8 @@ disqusShortname = ""
     description = "Emerald House Community Garden"
     keywords = "garden, community, falmouth"
     info = "Growing in East Falmouth"
-    latest = "The Emerald House Community Garden will open Saturday May 15"
-    avatarURL = "images/emerald.jpeg"
+    latest = ""
+    avatarURL = "images/EHCG-Logo.png"
     #gravatar = "john.doe@example.com"
     footerContent = ""
 
@@ -92,12 +92,5 @@ disqusShortname = ""
     name = "History"
     weight = 2
     url = "history/"
-[[menu.main]]
-    name = "Blog"
-    weight = 3
-    url = "blog/"
-[[menu.main]]
-    name = "Contact"
-    weight = 4
-    url = "contact/"
+
 
